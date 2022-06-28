@@ -77,3 +77,10 @@
 - #### Response Time Distribution
 ![image](https://user-images.githubusercontent.com/56792623/176205631-effac455-53d4-46dd-8a0a-bb9e08d2401f.png)
 
+- #### View Result Tree
+![image](https://user-images.githubusercontent.com/56792623/176232399-80a06050-7eb1-4c37-b7b9-80680c7c379f.png)
+
+- #### Summery Report
+![image](https://user-images.githubusercontent.com/56792623/176232608-1c104113-878f-4161-8db2-c22c361f6a41.png)
+
+
